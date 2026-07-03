@@ -1,0 +1,11 @@
+langchain
+langchain_groq
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+youtube-transcript-api
+faiss-cpu
+python-dotenv
+tiktoken
+sentence-transformers
